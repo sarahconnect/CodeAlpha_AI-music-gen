@@ -156,24 +156,3 @@ Sequence length of 50
 Batch size of 128
 
 The model was trained on approximately 57,996 musical notes/chords extracted from the MIDI dataset.
-
-**Future Improvements**
-
-Possible improvements include:
-
-Longer generated compositions
-Better note timing and duration
-Velocity and dynamics
-Temperature-based sampling
-Training with a larger dataset
-Multiple musical genres
-Improved model architectures such as Transformers
-Better MIDI-to-audio synthesis
-*Project Goal*
-
-The goal of this project is to demonstrate how deep learning can be used to learn patterns from existing music and generate new musical sequences.
-
-
-This project code is provided for educational purposes.
-
-Dataset licensing and usage should follow the license and terms of the original MIDI dataset.
