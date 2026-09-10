@@ -1,0 +1,12 @@
+# Cvenv/
+__pycache__/
+*.pyc
+
+dataset/midi/
+processed/
+models/
+output/
+
+.vscode/
+reated by venv; see https://docs.python.org/3/library/venv.html
+*
